@@ -1,0 +1,9 @@
+{
+    "name": "CameraRotateDelayFix",
+    "version_number": "0.0.1",
+    "website_url": "https://github.com/testpushpleaseignore/Timberborn-Mods",
+    "description": "Camera Rotation Delay Fix",
+    "dependencies": [
+        "BepInEx-BepInExPack_Timberborn-5.4.16"
+    ]
+}
